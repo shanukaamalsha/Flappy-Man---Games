@@ -27,7 +27,7 @@ This project was developed to put my basic skills in HTML, Css and Javascript to
 
 ## 🚀 Getting Started
 
-### 1. Clone the Repository
+1. **Clone the repo**
 
 ## Stay Connected
 
