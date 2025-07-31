@@ -29,4 +29,11 @@ This project was developed to put my basic skills in HTML, Css and Javascript to
 
 ### 1. Clone the Repository
 
+## Stay Connected
+
+- 🔗 **Live Project:** https://infosphere-projects.netlify.app/
+- 🌐 **Infosphere Site:** https://infosphere-nexus.netlify.app/ 
+- 👤 **Facebook:** https://www.facebook.com/share/1C55BHgCG7/
+- ▶️ **YouTube Channel:** https://www.youtube.com/@infosphere_nexus
+  
 Happy Gaming!!!
